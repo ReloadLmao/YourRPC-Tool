@@ -12,4 +12,4 @@ Welcome to mini Discord RPC tool creater
 6. Enter your text to "Details" and "State"
 7. Start your RPC
 
-Now you create RPC!
+Now you created your RPC!
